@@ -1,0 +1,31 @@
+h1{ 
+    color:orange; 
+    font-size: 60px; 
+    text-align: center; 
+    font-family: Arial, Helvetica, sans-serif;
+    font-style: italic;
+}
+h2{ 
+   color:green; 
+   font-size: 40px;
+   text-align: right;  
+   font-family:Arial, Helvetica, sans-serif right; 
+   font-style: italic;
+}
+h3{ 
+    color:limegreen;
+    font-size: 20px;
+    text-align: center;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-style: italic;
+}
+h4{ 
+    color:blue; 
+    font-size: 10px;
+    text-align: center;
+    font-family: "Comic Sans";
+    font-style: italic;
+}
+b {font: size 12px; color:red;font-style: arial;}
+i {font: size 10px; color:black;font-style: italic;}
+
