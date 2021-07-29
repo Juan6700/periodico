@@ -1,3 +1,15 @@
-h1 { font: size 80px; color:yellow; text-align: center;font-style: Tahoma;}
-h2 { font: size 50px; color:blue; text-align: right;font-style: algerian;}
+h1 { 
+    color:yellow; 
+    font-size:  80px;  
+    text-align: center;
+    font-family:Verdana, Geneva, Tahoma, sans-serif;
+    font-style:italic;
+}
+h2 { 
+    color:blue; 
+    font-size:  50px;  
+    text-align: right;
+    font-family: "algerian";
+    font-style: italic;
+}
 p { font: size 10px; color:black; text-align: center;font-style: arial;}
